@@ -3,4 +3,4 @@ Some use cases of llm using langhain framework 🦜🦜🔗:
 - burger webpage reader and menu output 🍔 😋 🥤🥗🍔🍗🍟🥓
 - writing the evolutionary article with reasoning steps 🔬
 
-ipynb notebook[MY_notebook_v2.ipynb]
+[ipynb notebook](MY_notebook_v2.ipynb)
